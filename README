@@ -2,9 +2,12 @@ Infinite Family Network Connectivity Web Test
 
 Background
 ============
-I made this test to the Infinite Family organization back in 2009.
+I made this test to support the Infinite Family organization back in 2009.
 It was a hobby project which was used to help their users diagnose bandwith issues
 when performing video conferences between various locations in the US to South Africa.
+
+If you are willing to help them please visit their web site at:
+http://infinitefamily.org/
 
 I do not actively maintain this application but do please send me pull requests 
 if you find something that is broken in newer browsers.
